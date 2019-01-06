@@ -1,1 +1,1 @@
-Thi is beginning of git
+Thi is  not beginning of git
